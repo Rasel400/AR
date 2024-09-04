@@ -1,0 +1,94 @@
+<model-viewer src="high_school.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1">
+    <button class="Hotspot" slot="hotspot-1" data-position="0.006136921491887715m 1.0582956600197897m 12.393996305003839m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">ورودی-1</div>
+    </button><button class="Hotspot" slot="hotspot-12" data-position="-8.969955015907713m 1.7699754836619868m 14.196144702222673m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">اتاق نگهبانی</div>
+    </button><button class="Hotspot" slot="hotspot-15" data-position="17.032468064279144m 2.622071059300829m 12.497848841745062m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">1-A</div>
+    </button><button class="Hotspot" slot="hotspot-20" data-position="-7.356827154850601m 12.822142848462677m 14.224893480876972m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">سالن جلسات</div>
+    </button><button class="Hotspot" slot="hotspot-25" data-position="-14.163286968021197m 2.434294337076668m 12.50167574595639m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">1-B</div>
+    </button><button class="Hotspot" slot="hotspot-26" data-position="-23.126954874575453m 2.4700741888414135m 12.50167574595639m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">1-C</div>
+    </button><button class="Hotspot" slot="hotspot-33" data-position="-19.994591129452086m 2.172130194655118m -12.495872523429853m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">سرویس بهداشتی</div>
+    </button><button class="Hotspot" slot="hotspot-34" data-position="-7.462179968571032m 2.3266891460057297m -14.225284105868232m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">1-D</div>
+    </button><button class="Hotspot" slot="hotspot-35" data-position="7.444613708382093m 2.4161313346515043m -14.22528410586824m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">1-E</div>
+    </button><button class="Hotspot" slot="hotspot-36" data-position="17.023657907822546m 2.5598145285617115m -12.49911593156049m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">1-F</div>
+    </button><button class="Hotspot" slot="hotspot-37" data-position="17.077084620229503m 6.024228151308185m 12.497848841745071m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">2-A</div>
+    </button><button class="Hotspot" slot="hotspot-38" data-position="17.05896437215377m 9.584020045516276m 12.497848841745036m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">3-A</div>
+    </button><button class="Hotspot" slot="hotspot-39" data-position="17.040838383797265m 12.895640713778473m 12.497848841745036m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">4-A</div>
+    </button><button class="Hotspot" slot="hotspot-40" data-position="-14.14823459610478m 6.098856947804781m 12.50167574595639m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">2-B</div>
+    </button><button class="Hotspot" slot="hotspot-41" data-position="-14.30656386801861m 9.668062312620725m 12.50167574595639m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">3-B</div>
+    </button><button class="Hotspot" slot="hotspot-42" data-position="-14.148037378640607m 13.00016661976301m 12.50167574595639m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">4-B</div>
+    </button><button class="Hotspot" slot="hotspot-43" data-position="-23.10022658728109m 6.023024205396387m 12.50167574595639m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">2-C</div>
+    </button><button class="Hotspot" slot="hotspot-44" data-position="-23.062700372767956m 9.523512848173077m 12.50167574595639m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">3-C</div>
+    </button><button class="Hotspot" slot="hotspot-45" data-position="-23.10021254494752m 13.246464173369398m 12.5016757459564m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">4-C</div>
+    </button><button class="Hotspot" slot="hotspot-46" data-position="-23.163368601242755m 6.011187741623426m -12.49587252342985m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">2-D</div>
+    </button><button class="Hotspot" slot="hotspot-47" data-position="-23.089773483076577m 9.699950177135621m -12.495872523429853m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">3-D</div>
+    </button><button class="Hotspot" slot="hotspot-48" data-position="-23.13391439474611m 13.075277852355148m -12.495872523429853m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">4-D</div>
+    </button><button class="Hotspot" slot="hotspot-49" data-position="-14.172751154994293m 6.0463534200797335m -12.495872523429835m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">2-E</div>
+    </button><button class="Hotspot" slot="hotspot-50" data-position="-14.072488561232584m 9.525496543940566m -12.495872523429853m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">3-E</div>
+    </button><button class="Hotspot" slot="hotspot-51" data-position="-14.201305438035101m 12.974410014146759m -12.495872523429853m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">4-E</div>
+    </button><button class="Hotspot" slot="hotspot-52" data-position="-7.4411672066837315m 5.976697873703029m -14.225284105868258m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">2-F</div>
+    </button><button class="Hotspot" slot="hotspot-53" data-position="-7.5297404899073435m 9.330084798749866m -14.225284105868223m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">3-F</div>
+    </button><button class="Hotspot" slot="hotspot-54" data-position="-7.5120380490773995m 12.995539152113352m -14.22528410586824m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">4-F</div>
+    </button><button class="Hotspot" slot="hotspot-55" data-position="7.51846490003824m 6.0067203543516m -14.22528410586824m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">2-G</div>
+    </button><button class="Hotspot" slot="hotspot-56" data-position="7.459885708068127m 9.659130622320074m -14.225284105868223m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">3-G</div>
+    </button><button class="Hotspot" slot="hotspot-57" data-position="7.440360664800321m 13.036363304281368m -14.22528410586824m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">4-G</div>
+    </button><button class="Hotspot" slot="hotspot-58" data-position="17.10198825051188m 6.056899731617749m -12.499115931560482m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">2-H</div>
+    </button><button class="Hotspot" slot="hotspot-59" data-position="17.191979843366525m 9.609265256000366m -12.499115931560464m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">3-H</div>
+    </button><button class="Hotspot" slot="hotspot-60" data-position="17.065882301820846m 13.090328289451463m -12.499115931560482m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">4-H</div>
+    </button><button class="Hotspot" slot="hotspot-63" data-position="0.047417315469306054m 1.0169879623589562m -14.140475758154489m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">ورودی-2</div>
+    </button><button class="Hotspot" slot="hotspot-64" data-position="18.59589558044308m 0.5588947575664323m -0.18336802907007765m" data-normal="1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">خروجی</div>
+    </button><button class="Hotspot" slot="hotspot-65" data-position="-24.60808782887263m 0.6424488015989099m -0.032475750137636816m" data-normal="-1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">خروجی</div>
+    </button><button class="Hotspot" slot="hotspot-68" data-position="7.497669676084475m 12.847980319497312m 14.224893480876972m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">کتابخانه</div>
+    </button><button class="Hotspot" slot="hotspot-69" data-position="1.5185371005695645m 9.025808037576846m 14.224893480876972m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">سالن پذیرایی</div>
+    </button><button class="Hotspot" slot="hotspot-70" data-position="7.491443980523519m 5.81815767616435m 14.22489348087699m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">اتاق مدیر</div>
+    </button><button class="Hotspot" slot="hotspot-71" data-position="-4.40920814608276m 5.628028063380498m 14.224893480876972m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">اتاق پرسنل</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
